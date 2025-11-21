@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Tkinter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yhoqw/Portfolio_Website](https://github.com/Yhoqw/Portfolio_Website)
-
 - 📝 I regularly write articles on [https://medium.com/@yazdanalikhan005](https://medium.com/@yazdanalikhan005)
 
 - 📫 How to reach me **yazdanalikhan005@gmail.com**
