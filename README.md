@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yazdan Ali Khan</h1>
 <h3 align="center">An Electrical Engineering Student from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yhoqw" alt="yhoqw" /></a> </p>
-
 - 🌱 I’m currently learning **Tkinter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yhoqw/Portfolio_Website](https://github.com/Yhoqw/Portfolio_Website)
