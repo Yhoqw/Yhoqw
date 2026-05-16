@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yazdan Ali Khan</h1>
 <h3 align="center">An Electrical Engineering Student from Pakistan</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Embedded C**
 
 - 📝 I regularly write articles on [https://medium.com/@yazdanalikhan005](https://medium.com/@yazdanalikhan005)
 
